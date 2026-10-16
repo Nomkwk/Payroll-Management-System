@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B157F17A-5A6D-4031-8711-FB55693E7DCD}|PayRollClient\\PayRollClient.csproj|c:\\users\\nankhbayar1\\onedrive - nc\\documents\\courses\\prog1224 object-oriented\\projects\\project a\\prog1224\\payrollclient\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B157F17A-5A6D-4031-8711-FB55693E7DCD}|PayRollClient\\PayRollClient.csproj|solutionrelative:payrollclient\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A00251-E8CA-4EAD-B3FB-9159C9098485}|EmployeeLibrary\\EmployeeLibrary.csproj|C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\employeelibrary\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A00251-E8CA-4EAD-B3FB-9159C9098485}|EmployeeLibrary\\EmployeeLibrary.csproj|solutionrelative:employeelibrary\\salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A00251-E8CA-4EAD-B3FB-9159C9098485}|EmployeeLibrary\\EmployeeLibrary.csproj|C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\employeelibrary\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A00251-E8CA-4EAD-B3FB-9159C9098485}|EmployeeLibrary\\EmployeeLibrary.csproj|solutionrelative:employeelibrary\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A00251-E8CA-4EAD-B3FB-9159C9098485}|EmployeeLibrary\\EmployeeLibrary.csproj|C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\employeelibrary\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A00251-E8CA-4EAD-B3FB-9159C9098485}|EmployeeLibrary\\EmployeeLibrary.csproj|solutionrelative:employeelibrary\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A00251-E8CA-4EAD-B3FB-9159C9098485}|EmployeeLibrary\\EmployeeLibrary.csproj|C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\employeelibrary\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A00251-E8CA-4EAD-B3FB-9159C9098485}|EmployeeLibrary\\EmployeeLibrary.csproj|solutionrelative:employeelibrary\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A00251-E8CA-4EAD-B3FB-9159C9098485}|EmployeeLibrary\\EmployeeLibrary.csproj|C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\employeelibrary\\ideduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A00251-E8CA-4EAD-B3FB-9159C9098485}|EmployeeLibrary\\EmployeeLibrary.csproj|solutionrelative:employeelibrary\\ideduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A00251-E8CA-4EAD-B3FB-9159C9098485}|EmployeeLibrary\\EmployeeLibrary.csproj|C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\employeelibrary\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A00251-E8CA-4EAD-B3FB-9159C9098485}|EmployeeLibrary\\EmployeeLibrary.csproj|solutionrelative:employeelibrary\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A00251-E8CA-4EAD-B3FB-9159C9098485}|EmployeeLibrary\\EmployeeLibrary.csproj|C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\employeelibrary\\hourly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A00251-E8CA-4EAD-B3FB-9159C9098485}|EmployeeLibrary\\EmployeeLibrary.csproj|solutionrelative:employeelibrary\\hourly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A00251-E8CA-4EAD-B3FB-9159C9098485}|EmployeeLibrary\\EmployeeLibrary.csproj|C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\employeelibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A00251-E8CA-4EAD-B3FB-9159C9098485}|EmployeeLibrary\\EmployeeLibrary.csproj|solutionrelative:employeelibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B157F17A-5A6D-4031-8711-FB55693E7DCD}|PayRollClient\\PayRollClient.csproj|C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\payrollclient\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B157F17A-5A6D-4031-8711-FB55693E7DCD}|PayRollClient\\PayRollClient.csproj|solutionrelative:payrollclient\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B157F17A-5A6D-4031-8711-FB55693E7DCD}|PayRollClient\\PayRollClient.csproj|C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\payrollclient\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B157F17A-5A6D-4031-8711-FB55693E7DCD}|PayRollClient\\PayRollClient.csproj|solutionrelative:payrollclient\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B157F17A-5A6D-4031-8711-FB55693E7DCD}|PayRollClient\\PayRollClient.csproj|C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\payrollclient\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B157F17A-5A6D-4031-8711-FB55693E7DCD}|PayRollClient\\PayRollClient.csproj|solutionrelative:payrollclient\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B157F17A-5A6D-4031-8711-FB55693E7DCD}|PayRollClient\\PayRollClient.csproj|C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\payrollclient\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B157F17A-5A6D-4031-8711-FB55693E7DCD}|PayRollClient\\PayRollClient.csproj|solutionrelative:payrollclient\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PayRoll.cs",
+              "DocumentMoniker": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\EmployeeLibrary\\PayRoll.cs",
+              "RelativeDocumentMoniker": "EmployeeLibrary\\PayRoll.cs",
+              "ToolTip": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\EmployeeLibrary\\PayRoll.cs",
+              "RelativeToolTip": "EmployeeLibrary\\PayRoll.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAkwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T22:06:43.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\EmployeeLibrary\\Data.cs",
+              "RelativeDocumentMoniker": "EmployeeLibrary\\Data.cs",
+              "ToolTip": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\EmployeeLibrary\\Data.cs",
+              "RelativeToolTip": "EmployeeLibrary\\Data.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T22:06:22.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hourly.cs",
+              "DocumentMoniker": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\EmployeeLibrary\\Hourly.cs",
+              "RelativeDocumentMoniker": "EmployeeLibrary\\Hourly.cs",
+              "ToolTip": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\EmployeeLibrary\\Hourly.cs",
+              "RelativeToolTip": "EmployeeLibrary\\Hourly.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T22:05:32.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Salary.cs",
+              "DocumentMoniker": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\EmployeeLibrary\\Salary.cs",
+              "RelativeDocumentMoniker": "EmployeeLibrary\\Salary.cs",
+              "ToolTip": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\EmployeeLibrary\\Salary.cs",
+              "RelativeToolTip": "EmployeeLibrary\\Salary.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T22:05:30.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Training.cs",
+              "DocumentMoniker": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\EmployeeLibrary\\Training.cs",
+              "RelativeDocumentMoniker": "EmployeeLibrary\\Training.cs",
+              "ToolTip": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\EmployeeLibrary\\Training.cs",
+              "RelativeToolTip": "EmployeeLibrary\\Training.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAcwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T22:04:36.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\PayRollClient\\Dashboard.xaml.cs",
+              "RelativeDocumentMoniker": "PayRollClient\\Dashboard.xaml.cs",
+              "ToolTip": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\PayRollClient\\Dashboard.xaml.cs",
+              "RelativeToolTip": "PayRollClient\\Dashboard.xaml.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:17:35.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDeduction.cs",
+              "DocumentMoniker": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\EmployeeLibrary\\IDeduction.cs",
+              "RelativeDocumentMoniker": "EmployeeLibrary\\IDeduction.cs",
+              "ToolTip": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\EmployeeLibrary\\IDeduction.cs",
+              "RelativeToolTip": "EmployeeLibrary\\IDeduction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T22:05:12.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\EmployeeLibrary\\Address.cs",
+              "RelativeDocumentMoniker": "EmployeeLibrary\\Address.cs",
+              "ToolTip": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\EmployeeLibrary\\Address.cs",
+              "RelativeToolTip": "EmployeeLibrary\\Address.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T22:04:46.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\PayRollClient\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "PayRollClient\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\PayRollClient\\MainPage.xaml.cs",
+              "RelativeToolTip": "PayRollClient\\MainPage.xaml.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAqwHUAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:02:14.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Profile.xaml",
+              "DocumentMoniker": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\PayRollClient\\Profile.xaml",
+              "RelativeDocumentMoniker": "PayRollClient\\Profile.xaml",
+              "ToolTip": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\PayRollClient\\Profile.xaml",
+              "RelativeToolTip": "PayRollClient\\Profile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-23T22:08:18.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\EmployeeLibrary\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeLibrary\\Employee.cs",
+              "ToolTip": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\EmployeeLibrary\\Employee.cs",
+              "RelativeToolTip": "EmployeeLibrary\\Employee.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAIwNEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T22:03:28.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Profile.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\PayRollClient\\Profile.xaml.cs",
+              "RelativeDocumentMoniker": "PayRollClient\\Profile.xaml.cs",
+              "ToolTip": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\PayRollClient\\Profile.xaml.cs",
+              "RelativeToolTip": "PayRollClient\\Profile.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T21:50:27.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\PayRollClient\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PayRollClient\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\nankhbayar1\\OneDrive - NC\\Documents\\Courses\\PROG1224 Object-Oriented\\Projects\\Project A\\PROG1224\\PayRollClient\\MainPage.xaml",
+              "RelativeToolTip": "PayRollClient\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-23T21:50:36.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

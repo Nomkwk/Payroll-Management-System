@@ -1,0 +1,359 @@
+﻿<Page
+    x:Class="PayRollClient.Dashboard"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="using:PayRollClient"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Background="LightYellow"
+    FontFamily="Comic Sans MS"
+    mc:Ignorable="d">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="55" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="150" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="60" />
+            <RowDefinition Height="50" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="50" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="50" />
+        </Grid.ColumnDefinitions>
+        <StackPanel
+            Grid.ColumnSpan="6"
+            Margin="0,0,0,0"
+            VerticalAlignment="Center"
+            Background="Yellow"
+            BorderBrush="Black"
+            BorderThickness="0,0,0,1"
+            Orientation="Horizontal">
+            <Image
+                Width="52"
+                Height="55"
+                Margin="5,0,0,0"
+                Source="/Assets/Lemon Logo.png" />
+            <MenuBar>
+                <MenuBarItem
+                    Title="Lemon co."
+                    FontSize="14"
+                    FontWeight="Bold">
+                    <MenuFlyoutItem Text="Profile" />
+                </MenuBarItem>
+            </MenuBar>
+        </StackPanel>
+
+        <Border
+            Grid.Row="2"
+            Grid.Column="1"
+            Background="White"
+            BorderBrush="Black"
+            BorderThickness="1"
+            CornerRadius="20">
+            <StackPanel
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"
+                Orientation="Horizontal">
+                <TextBlock
+                    FontSize="40"
+                    FontWeight="Bold"
+                    Text="Dasboard" />
+            </StackPanel>
+
+        </Border>
+        <StackPanel
+            Grid.Row="4"
+            Grid.RowSpan="2"
+            Grid.Column="1"
+            Padding="25"
+            Background="White"
+            BorderBrush="Black"
+            BorderThickness="1"
+            CornerRadius="20"
+            Orientation="Vertical">
+            <StackPanel
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Orientation="Horizontal">
+                <StackPanel
+                    Width="350"
+                    Height="210"
+                    Padding="10"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Background="Yellow"
+                    BorderBrush="Black"
+                    BorderThickness="1"
+                    CornerRadius="15"
+                    Orientation="Vertical">
+                    <TextBlock
+                        HorizontalAlignment="Center"
+                        FontSize="40"
+                        Text="Total:" />
+                    <StackPanel
+                        Margin="0,10,0,0"
+                        HorizontalAlignment="Center"
+                        Orientation="Horizontal">
+                        <StackPanel HorizontalAlignment="Left" Orientation="Vertical">
+                            <TextBlock
+                                HorizontalAlignment="Center"
+                                FontSize="25"
+                                Text="Salary" />
+                            <TextBlock
+                                x:Name="lblSalaryTotal"
+                                HorizontalAlignment="Center"
+                                FontSize="25"
+                                Text="25" />
+                        </StackPanel>
+                        <StackPanel
+                            Margin="10,0,10,0"
+                            HorizontalAlignment="Center"
+                            Orientation="Vertical">
+                            <TextBlock
+                                HorizontalAlignment="Center"
+                                FontSize="25"
+                                Text="Hourly" />
+                            <TextBlock
+                                x:Name="lblHourlyTotal"
+                                HorizontalAlignment="Center"
+                                FontSize="25"
+                                Text="25" />
+                        </StackPanel>
+                        <StackPanel HorizontalAlignment="Left" Orientation="Vertical">
+                            <TextBlock
+                                HorizontalAlignment="Center"
+                                FontSize="25"
+                                Text="Training" />
+                            <TextBlock
+                                x:Name="lblTrainingTotal"
+                                HorizontalAlignment="Center"
+                                FontSize="25"
+                                Text="25" />
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel
+                    Width="350"
+                    Height="210"
+                    Margin="150,0,150,0"
+                    Padding="10"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Top"
+                    Background="Yellow"
+                    BorderBrush="Black"
+                    BorderThickness="1"
+                    CornerRadius="15"
+                    Orientation="Vertical">
+                    <TextBlock
+                        HorizontalAlignment="Center"
+                        FontSize="40"
+                        Text="Total:" />
+                    <StackPanel
+                        Margin="0,10,0,0"
+                        HorizontalAlignment="Center"
+                        Orientation="Horizontal">
+                        <StackPanel HorizontalAlignment="Left" Orientation="Vertical">
+                            <TextBlock
+                                HorizontalAlignment="Center"
+                                FontSize="25"
+                                Text="Active" />
+                            <TextBlock
+                                x:Name="txtActiveTotal"
+                                HorizontalAlignment="Center"
+                                FontSize="25"
+                                Text="25" />
+                        </StackPanel>
+                        <StackPanel
+                            Margin="15,0,0,0"
+                            HorizontalAlignment="Left"
+                            Orientation="Vertical">
+                            <TextBlock
+                                HorizontalAlignment="Center"
+                                FontSize="25"
+                                Text="Inactive" />
+                            <TextBlock
+                                x:Name="txtInactiveTotal"
+                                HorizontalAlignment="Center"
+                                FontSize="25"
+                                Text="25" />
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel
+                    Width="350"
+                    Height="210"
+                    Padding="10"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Top"
+                    Background="Yellow"
+                    BorderBrush="Black"
+                    BorderThickness="1"
+                    CornerRadius="15"
+                    Orientation="Vertical">
+                    <TextBlock
+                        HorizontalAlignment="Center"
+                        FontSize="40"
+                        Text="Seniority" />
+                    <StackPanel
+                        Margin="0,10,0,0"
+                        HorizontalAlignment="Center"
+                        Orientation="Vertical">
+                        <StackPanel HorizontalAlignment="Left" Orientation="Horizontal">
+                            <TextBlock
+                                HorizontalAlignment="Center"
+                                FontSize="25"
+                                Text="Most: " />
+                            <TextBlock
+                                x:Name="txtMostSenior"
+                                Margin="10,0,0,0"
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center"
+                                FontSize="20"
+                                Text="25" />
+                        </StackPanel>
+                        <StackPanel
+                            Margin="0,10,0,0"
+                            HorizontalAlignment="Left"
+                            Orientation="Horizontal">
+                            <TextBlock
+                                HorizontalAlignment="Center"
+                                FontSize="25"
+                                Text="Least: " />
+                            <TextBlock
+                                x:Name="txtLeastSenior"
+                                Margin="10,0,0,0"
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center"
+                                FontSize="20"
+                                Text="25" />
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel
+                Margin="00,100,0,0"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Bottom"
+                Orientation="Horizontal">
+
+                <StackPanel
+                    Width="350"
+                    Height="210"
+                    Padding="10"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Top"
+                    Background="Yellow"
+                    BorderBrush="Black"
+                    BorderThickness="1"
+                    CornerRadius="15"
+                    Orientation="Vertical">
+                    <TextBlock
+                        HorizontalAlignment="Center"
+                        FontSize="40"
+                        Text="Highest" />
+                    <StackPanel
+                        Margin="0,10,0,0"
+                        HorizontalAlignment="Center"
+                        Orientation="Horizontal">
+                        <StackPanel HorizontalAlignment="Left" Orientation="Vertical">
+                            <TextBlock
+                                HorizontalAlignment="Center"
+                                FontSize="25"
+                                Text="Paid" />
+                            <TextBlock
+                                x:Name="txtHighestPay"
+                                HorizontalAlignment="Center"
+                                FontSize="20"
+                                Text="25" />
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel
+                    Width="350"
+                    Height="210"
+                    Margin="150,0,150,0"
+                    Padding="10"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Top"
+                    Background="Yellow"
+                    BorderBrush="Black"
+                    BorderThickness="1"
+                    CornerRadius="15"
+                    Orientation="Vertical">
+                    <TextBlock
+                        HorizontalAlignment="Center"
+                        FontSize="40"
+                        Text="Average" />
+                    <StackPanel
+                        Margin="0,10,0,0"
+                        HorizontalAlignment="Center"
+                        Orientation="Horizontal">
+                        <StackPanel HorizontalAlignment="Left" Orientation="Vertical">
+                            <TextBlock
+                                HorizontalAlignment="Center"
+                                FontSize="25"
+                                Text="Pay" />
+                            <TextBlock
+                                x:Name="txtAverage"
+                                HorizontalAlignment="Center"
+                                FontSize="25"
+                                Text="25" />
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel
+                    Width="350"
+                    Height="210"
+                    Padding="10"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Top"
+                    Background="Yellow"
+                    BorderBrush="Black"
+                    BorderThickness="1"
+                    CornerRadius="15"
+                    Orientation="Vertical">
+                    <TextBlock
+                        HorizontalAlignment="Center"
+                        FontSize="40"
+                        Text="Most" />
+                    <StackPanel
+                        Margin="0,10,0,0"
+                        HorizontalAlignment="Center"
+                        Orientation="Vertical">
+                        <StackPanel HorizontalAlignment="Left" Orientation="Vertical">
+                            <TextBlock
+                                HorizontalAlignment="Center"
+                                FontSize="25"
+                                Text="Common" />
+                            <TextBlock
+                                x:Name="txtUnique"
+                                HorizontalAlignment="Center"
+                                FontSize="25"
+                                Text="25" />
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+
+        <Button
+            x:Name="btnBack"
+            Grid.Row="6"
+            Grid.Column="1"
+            Width="150"
+            Height="50"
+            HorizontalAlignment="Right"
+            Background="Yellow"
+            BorderBrush="Black"
+            BorderThickness="1"
+            Click="btnBack_Click"
+            Content="Back"
+            CornerRadius="5"
+            FontSize="25" />
+    </Grid>
+</Page>

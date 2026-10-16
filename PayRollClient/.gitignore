@@ -1,0 +1,26 @@
+# Visual Studio / .NET generated files
+.vs/
+bin/
+obj/
+
+# User-specific editor files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build and debug artifacts
+*.pdb
+*.cache
+*.log
+*.tmp
+*.bak
+*.orig
+*.rej
+
+# Windows metadata
+Thumbs.db
+Desktop.ini
+
+# Optional: keep only source files tracked; do not ignore actual project code
+# *.cs, *.xaml, *.csproj, *.appxmanifest, Assets/ should remain tracked
